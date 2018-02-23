@@ -105,11 +105,14 @@ function placeOrder(cardNumber) {
   
 }
 
-//addToCart("mango");
-//addToCart("nuts");
-//addToCart("orange");
 
-//viewCart()
+addToCart("mango");
+addToCart("nuts");
+addToCart("orange");
+
+viewCart()
+
+debugger
 //console.log(cart[0].hasOwnProperty("mango"))
 
 
